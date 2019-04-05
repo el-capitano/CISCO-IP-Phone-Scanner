@@ -10,5 +10,3 @@ Feel free to share your feedbacks with me, the code will be shared once enough S
 ![Alt text](http://lms.unhcrleb.org/cisco-phone-scanner.png "CISCO Phone Scanner")
 
 
-** Since the application is using multithreaded process, the Stop button might not work unless all threads have done the scan
-** This needs improvement
