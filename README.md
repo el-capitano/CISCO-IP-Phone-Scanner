@@ -8,3 +8,7 @@ For now, the tool can scan up to 254 hosts (Class C only)
 Feel free to share your feedbacks with me, the code will be shared once enough Stars are given :)
 
 ![Alt text](http://lms.unhcrleb.org/cisco-phone-scanner.png "CISCO Phone Scanner")
+
+
+** Since the application is using multithreaded process, the Stop button might not work unless all threads have done the scan
+** This needs improvement
