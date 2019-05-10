@@ -3,14 +3,14 @@ Scan all CISCO phones in your LAN to get their information(Extension,SN,Model,IP
 
 The tool is multi-threaded with the capability of Exporting the results to Excel, the down hosts will also be retrieved under the Error List.
 
-#1-Search for an entire Class A network
-#2-The ability to include Switch info (IP/Port-Name)
-#3-Include name of Phone user (works with CUCM)
-#4-Export results to Excel file
-#5-Log of invalid or down hosts
-#6-Remote Sync (future versions)
-#7-Statistics about the scan
-#8-Multi-threaded 
+1. Search for an entire Class A network
+2. The ability to include Switch info (IP/Port-Name)
+3. Include name of Phone user (works with CUCM)
+4. Export results to Excel file
+5. Log of invalid or down hosts
+6. Remote Sync (future versions)
+7. Statistics about the scan
+8. Multi-threaded 
 
 Please star if you find it useful
 
