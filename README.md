@@ -1,4 +1,4 @@
-# CISCO Fast Phones Scanner
+# CISCO Fast IP Phones Scanner
 Scan all CISCO phones in your LAN to get their information(Extension,SN,Model,IP,MAC,etc..)
 
 The tool is multi-threaded with the capability of Exporting the results to Excel, the down hosts will also be retrieved under the Error List.
