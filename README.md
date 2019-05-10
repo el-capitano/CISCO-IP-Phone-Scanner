@@ -1,5 +1,6 @@
-# CISCO Fast IP Phones Scanner
+# CISCO Fast IP Phones Scanner v1.0
 ![Alt tect](https://majed.xyz/wp-content/uploads/2019/05/header-1.png "CISCO IP Phone Scanner")
+
 Scan all CISCO phones in your LAN to get their information(Extension,SN,Model,IP,MAC,etc..)
 
 The tool is multi-threaded with the capability of Exporting the results to Excel, the down hosts will also be retrieved under the Error List.
